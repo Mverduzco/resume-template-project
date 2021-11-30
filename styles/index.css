@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+    border: 1px solid black;
+
+}
+
+html{
+    font-size: 62.5%;
+
+}
+body{
+    font-size: 1.6rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    line-height:2;
+    color:gray;
+
+}
+button, a{
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+button{
+    border:4px solid black;
+    color: red;
+    background-color: black;
+}
+
+
+h1,h2,h3{
+    font-family: 'Oswald', sans-serif;
+}
+
+span{
+    font-family: 'monoton', cursive;
+    color: 
+}
+h1{
+    font-size: 6rem;
+}
+
+button{
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    border:none
+
+}
+
+nav.main{
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.links{
+    width: 50%;
+
+}
+
+.top{
+    height:80vh;
+    display:flex;
+    justify-content: ;
+}
